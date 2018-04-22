@@ -1,0 +1,350 @@
+neighborhood,category,Incident number
+Bayview,ASSAULT,998
+Bayview,LARCENY/THEFT,508
+Bayview,VEHICLE THEFT,442
+Bayview,VANDALISM,399
+Bayview,SUSPICIOUS OCC,282
+Bayview,WEAPON LAWS,183
+Bayview,DRUG/NARCOTIC,160
+Bayview,ROBBERY,150
+Bayview,BURGLARY,145
+Bayview,FRAUD,40
+Bernal Heights,LARCENY/THEFT,325
+Bernal Heights,ASSAULT,237
+Bernal Heights,VEHICLE THEFT,166
+Bernal Heights,VANDALISM,119
+Bernal Heights,BURGLARY,93
+Bernal Heights,SUSPICIOUS OCC,85
+Bernal Heights,ROBBERY,59
+Bernal Heights,WEAPON LAWS,29
+Bernal Heights,DRUG/NARCOTIC,27
+Bernal Heights,FRAUD,22
+Castro/Upper Market,LARCENY/THEFT,97
+Castro/Upper Market,VEHICLE THEFT,29
+Castro/Upper Market,VANDALISM,22
+Castro/Upper Market,BURGLARY,21
+Castro/Upper Market,ASSAULT,14
+Castro/Upper Market,SUSPICIOUS OCC,10
+Castro/Upper Market,FRAUD,7
+Castro/Upper Market,ROBBERY,4
+Chinatown,LARCENY/THEFT,538
+Chinatown,ASSAULT,135
+Chinatown,VANDALISM,105
+Chinatown,ROBBERY,56
+Chinatown,BURGLARY,53
+Chinatown,SUSPICIOUS OCC,52
+Chinatown,FRAUD,37
+Chinatown,VEHICLE THEFT,26
+Chinatown,DRUG/NARCOTIC,24
+Chinatown,WEAPON LAWS,15
+Crocker Amazon,ASSAULT,128
+Crocker Amazon,LARCENY/THEFT,79
+Crocker Amazon,VANDALISM,48
+Crocker Amazon,VEHICLE THEFT,41
+Crocker Amazon,SUSPICIOUS OCC,35
+Crocker Amazon,ROBBERY,22
+Crocker Amazon,BURGLARY,21
+Crocker Amazon,WEAPON LAWS,13
+Crocker Amazon,FRAUD,10
+Crocker Amazon,DRUG/NARCOTIC,9
+Diamond Heights,LARCENY/THEFT,65
+Diamond Heights,BURGLARY,26
+Diamond Heights,VEHICLE THEFT,25
+Diamond Heights,VANDALISM,13
+Diamond Heights,ASSAULT,11
+Diamond Heights,SUSPICIOUS OCC,8
+Diamond Heights,ROBBERY,5
+Diamond Heights,DRUG/NARCOTIC,3
+Diamond Heights,FRAUD,2
+Downtown/Civic Center,LARCENY/THEFT,4838
+Downtown/Civic Center,ASSAULT,2077
+Downtown/Civic Center,DRUG/NARCOTIC,1398
+Downtown/Civic Center,SUSPICIOUS OCC,833
+Downtown/Civic Center,VANDALISM,772
+Downtown/Civic Center,ROBBERY,665
+Downtown/Civic Center,BURGLARY,415
+Downtown/Civic Center,FRAUD,356
+Downtown/Civic Center,VEHICLE THEFT,332
+Downtown/Civic Center,WEAPON LAWS,213
+Excelsior,ASSAULT,213
+Excelsior,LARCENY/THEFT,145
+Excelsior,VEHICLE THEFT,112
+Excelsior,VANDALISM,96
+Excelsior,SUSPICIOUS OCC,72
+Excelsior,ROBBERY,53
+Excelsior,BURGLARY,47
+Excelsior,DRUG/NARCOTIC,32
+Excelsior,WEAPON LAWS,18
+Excelsior,FRAUD,16
+Financial District,LARCENY/THEFT,888
+Financial District,ASSAULT,244
+Financial District,VANDALISM,149
+Financial District,SUSPICIOUS OCC,99
+Financial District,FRAUD,97
+Financial District,BURGLARY,73
+Financial District,ROBBERY,72
+Financial District,VEHICLE THEFT,56
+Financial District,WEAPON LAWS,25
+Financial District,DRUG/NARCOTIC,21
+Glen Park,LARCENY/THEFT,95
+Glen Park,ASSAULT,28
+Glen Park,VEHICLE THEFT,27
+Glen Park,VANDALISM,24
+Glen Park,BURGLARY,22
+Glen Park,SUSPICIOUS OCC,14
+Glen Park,ROBBERY,5
+Glen Park,FRAUD,4
+Glen Park,DRUG/NARCOTIC,3
+Glen Park,WEAPON LAWS,1
+Golden Gate Park,LARCENY/THEFT,894
+Golden Gate Park,ASSAULT,78
+Golden Gate Park,DRUG/NARCOTIC,77
+Golden Gate Park,VANDALISM,75
+Golden Gate Park,SUSPICIOUS OCC,55
+Golden Gate Park,VEHICLE THEFT,41
+Golden Gate Park,ROBBERY,27
+Golden Gate Park,BURGLARY,24
+Golden Gate Park,FRAUD,22
+Golden Gate Park,WEAPON LAWS,11
+Haight Ashbury,LARCENY/THEFT,533
+Haight Ashbury,ASSAULT,175
+Haight Ashbury,DRUG/NARCOTIC,138
+Haight Ashbury,VANDALISM,130
+Haight Ashbury,VEHICLE THEFT,100
+Haight Ashbury,BURGLARY,96
+Haight Ashbury,SUSPICIOUS OCC,57
+Haight Ashbury,FRAUD,35
+Haight Ashbury,ROBBERY,30
+Haight Ashbury,WEAPON LAWS,16
+Inner Richmond,LARCENY/THEFT,643
+Inner Richmond,VEHICLE THEFT,154
+Inner Richmond,ASSAULT,129
+Inner Richmond,VANDALISM,122
+Inner Richmond,BURGLARY,104
+Inner Richmond,SUSPICIOUS OCC,93
+Inner Richmond,FRAUD,49
+Inner Richmond,ROBBERY,26
+Inner Richmond,DRUG/NARCOTIC,18
+Inner Richmond,WEAPON LAWS,9
+Inner Sunset,LARCENY/THEFT,261
+Inner Sunset,BURGLARY,80
+Inner Sunset,ASSAULT,76
+Inner Sunset,VANDALISM,53
+Inner Sunset,VEHICLE THEFT,50
+Inner Sunset,SUSPICIOUS OCC,32
+Inner Sunset,FRAUD,22
+Inner Sunset,ROBBERY,19
+Inner Sunset,DRUG/NARCOTIC,9
+Inner Sunset,WEAPON LAWS,3
+Lakeshore,LARCENY/THEFT,159
+Lakeshore,ASSAULT,26
+Lakeshore,VANDALISM,23
+Lakeshore,FRAUD,22
+Lakeshore,SUSPICIOUS OCC,15
+Lakeshore,BURGLARY,14
+Lakeshore,VEHICLE THEFT,14
+Lakeshore,WEAPON LAWS,4
+Lakeshore,ROBBERY,3
+Lakeshore,DRUG/NARCOTIC,1
+Marina,LARCENY/THEFT,1857
+Marina,VANDALISM,257
+Marina,ASSAULT,237
+Marina,BURGLARY,222
+Marina,VEHICLE THEFT,143
+Marina,SUSPICIOUS OCC,110
+Marina,FRAUD,80
+Marina,ROBBERY,58
+Marina,DRUG/NARCOTIC,39
+Marina,WEAPON LAWS,15
+Mission,LARCENY/THEFT,2738
+Mission,ASSAULT,1814
+Mission,VANDALISM,912
+Mission,SUSPICIOUS OCC,757
+Mission,VEHICLE THEFT,718
+Mission,DRUG/NARCOTIC,551
+Mission,BURGLARY,537
+Mission,ROBBERY,490
+Mission,WEAPON LAWS,253
+Mission,FRAUD,239
+Nob Hill,LARCENY/THEFT,1598
+Nob Hill,ASSAULT,510
+Nob Hill,VANDALISM,340
+Nob Hill,BURGLARY,219
+Nob Hill,VEHICLE THEFT,210
+Nob Hill,SUSPICIOUS OCC,192
+Nob Hill,ROBBERY,133
+Nob Hill,DRUG/NARCOTIC,128
+Nob Hill,FRAUD,97
+Nob Hill,WEAPON LAWS,36
+Noe Valley,LARCENY/THEFT,237
+Noe Valley,VEHICLE THEFT,105
+Noe Valley,BURGLARY,103
+Noe Valley,VANDALISM,60
+Noe Valley,ASSAULT,56
+Noe Valley,SUSPICIOUS OCC,39
+Noe Valley,FRAUD,21
+Noe Valley,ROBBERY,11
+Noe Valley,DRUG/NARCOTIC,10
+Noe Valley,WEAPON LAWS,10
+North Beach,LARCENY/THEFT,2073
+North Beach,ASSAULT,354
+North Beach,VANDALISM,335
+North Beach,SUSPICIOUS OCC,158
+North Beach,BURGLARY,139
+North Beach,FRAUD,117
+North Beach,VEHICLE THEFT,105
+North Beach,ROBBERY,86
+North Beach,DRUG/NARCOTIC,45
+North Beach,WEAPON LAWS,41
+Ocean View,ASSAULT,110
+Ocean View,LARCENY/THEFT,88
+Ocean View,VEHICLE THEFT,41
+Ocean View,VANDALISM,39
+Ocean View,BURGLARY,37
+Ocean View,SUSPICIOUS OCC,29
+Ocean View,WEAPON LAWS,17
+Ocean View,ROBBERY,14
+Ocean View,DRUG/NARCOTIC,7
+Ocean View,FRAUD,5
+Outer Mission,ASSAULT,76
+Outer Mission,LARCENY/THEFT,58
+Outer Mission,VEHICLE THEFT,47
+Outer Mission,VANDALISM,29
+Outer Mission,SUSPICIOUS OCC,22
+Outer Mission,BURGLARY,14
+Outer Mission,DRUG/NARCOTIC,10
+Outer Mission,ROBBERY,8
+Outer Mission,FRAUD,7
+Outer Mission,WEAPON LAWS,3
+Outer Richmond,LARCENY/THEFT,539
+Outer Richmond,ASSAULT,126
+Outer Richmond,VEHICLE THEFT,125
+Outer Richmond,VANDALISM,116
+Outer Richmond,BURGLARY,106
+Outer Richmond,SUSPICIOUS OCC,95
+Outer Richmond,FRAUD,52
+Outer Richmond,ROBBERY,26
+Outer Richmond,DRUG/NARCOTIC,22
+Outer Richmond,WEAPON LAWS,16
+Outer Sunset,LARCENY/THEFT,602
+Outer Sunset,ASSAULT,250
+Outer Sunset,VANDALISM,167
+Outer Sunset,BURGLARY,163
+Outer Sunset,VEHICLE THEFT,157
+Outer Sunset,SUSPICIOUS OCC,147
+Outer Sunset,FRAUD,73
+Outer Sunset,ROBBERY,37
+Outer Sunset,WEAPON LAWS,34
+Outer Sunset,DRUG/NARCOTIC,25
+Pacific Heights,LARCENY/THEFT,715
+Pacific Heights,BURGLARY,140
+Pacific Heights,VANDALISM,133
+Pacific Heights,VEHICLE THEFT,128
+Pacific Heights,ASSAULT,99
+Pacific Heights,SUSPICIOUS OCC,77
+Pacific Heights,FRAUD,61
+Pacific Heights,ROBBERY,35
+Pacific Heights,DRUG/NARCOTIC,32
+Pacific Heights,WEAPON LAWS,11
+Parkside,LARCENY/THEFT,206
+Parkside,ASSAULT,90
+Parkside,VANDALISM,79
+Parkside,BURGLARY,68
+Parkside,VEHICLE THEFT,57
+Parkside,SUSPICIOUS OCC,53
+Parkside,FRAUD,37
+Parkside,ROBBERY,15
+Parkside,DRUG/NARCOTIC,11
+Parkside,WEAPON LAWS,9
+Potrero Hill,LARCENY/THEFT,799
+Potrero Hill,ASSAULT,326
+Potrero Hill,VANDALISM,286
+Potrero Hill,SUSPICIOUS OCC,210
+Potrero Hill,VEHICLE THEFT,199
+Potrero Hill,BURGLARY,165
+Potrero Hill,DRUG/NARCOTIC,88
+Potrero Hill,ROBBERY,54
+Potrero Hill,WEAPON LAWS,52
+Potrero Hill,FRAUD,44
+Presidio,LARCENY/THEFT,128
+Presidio,BURGLARY,34
+Presidio,VEHICLE THEFT,28
+Presidio,SUSPICIOUS OCC,26
+Presidio,VANDALISM,21
+Presidio,ASSAULT,16
+Presidio,FRAUD,13
+Presidio,DRUG/NARCOTIC,3
+Presidio,ROBBERY,2
+Presidio,WEAPON LAWS,1
+Russian Hill,LARCENY/THEFT,676
+Russian Hill,VANDALISM,129
+Russian Hill,VEHICLE THEFT,97
+Russian Hill,ASSAULT,81
+Russian Hill,BURGLARY,55
+Russian Hill,SUSPICIOUS OCC,47
+Russian Hill,ROBBERY,34
+Russian Hill,DRUG/NARCOTIC,18
+Russian Hill,FRAUD,18
+Russian Hill,WEAPON LAWS,16
+Seacliff,LARCENY/THEFT,33
+Seacliff,SUSPICIOUS OCC,12
+Seacliff,VANDALISM,8
+Seacliff,FRAUD,7
+Seacliff,VEHICLE THEFT,7
+Seacliff,BURGLARY,6
+Seacliff,ASSAULT,2
+Seacliff,WEAPON LAWS,1
+South of Market,LARCENY/THEFT,6900
+South of Market,ASSAULT,1695
+South of Market,VANDALISM,1099
+South of Market,SUSPICIOUS OCC,722
+South of Market,DRUG/NARCOTIC,704
+South of Market,BURGLARY,619
+South of Market,VEHICLE THEFT,471
+South of Market,ROBBERY,398
+South of Market,FRAUD,335
+South of Market,WEAPON LAWS,209
+Treasure Island/YBI,VEHICLE THEFT,4
+Treasure Island/YBI,ASSAULT,1
+Treasure Island/YBI,FRAUD,1
+Treasure Island/YBI,LARCENY/THEFT,1
+Twin Peaks,LARCENY/THEFT,36
+Twin Peaks,ASSAULT,23
+Twin Peaks,BURGLARY,14
+Twin Peaks,SUSPICIOUS OCC,13
+Twin Peaks,VANDALISM,9
+Twin Peaks,VEHICLE THEFT,8
+Twin Peaks,DRUG/NARCOTIC,6
+Twin Peaks,FRAUD,5
+Twin Peaks,ROBBERY,4
+Twin Peaks,WEAPON LAWS,2
+Visitacion Valley,ASSAULT,108
+Visitacion Valley,LARCENY/THEFT,95
+Visitacion Valley,VANDALISM,81
+Visitacion Valley,VEHICLE THEFT,61
+Visitacion Valley,SUSPICIOUS OCC,39
+Visitacion Valley,BURGLARY,32
+Visitacion Valley,ROBBERY,24
+Visitacion Valley,FRAUD,14
+Visitacion Valley,DRUG/NARCOTIC,13
+Visitacion Valley,WEAPON LAWS,6
+West of Twin Peaks,LARCENY/THEFT,676
+West of Twin Peaks,ASSAULT,228
+West of Twin Peaks,VEHICLE THEFT,165
+West of Twin Peaks,VANDALISM,132
+West of Twin Peaks,SUSPICIOUS OCC,95
+West of Twin Peaks,BURGLARY,88
+West of Twin Peaks,ROBBERY,67
+West of Twin Peaks,FRAUD,37
+West of Twin Peaks,WEAPON LAWS,28
+West of Twin Peaks,DRUG/NARCOTIC,24
+Western Addition,LARCENY/THEFT,1042
+Western Addition,ASSAULT,321
+Western Addition,VANDALISM,205
+Western Addition,SUSPICIOUS OCC,112
+Western Addition,BURGLARY,105
+Western Addition,VEHICLE THEFT,102
+Western Addition,ROBBERY,68
+Western Addition,FRAUD,58
+Western Addition,DRUG/NARCOTIC,56
+Western Addition,WEAPON LAWS,46

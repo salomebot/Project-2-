@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Awareness</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>  
+   
+</head>
+
+<body>
+  <!--Navbar-->
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      
+      
+      <div class="btn-group navbar-right">
+          <button type="button" class="btn btn-default"><a href="search.html">Search</a></button>
+          <button class="navbar-header"><a href="index.html">Home</a></button>
+      </div>  
+    </div><!-- /.container-fluid -->
+  </nav>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-md-12 col-md-offset-0">
+            <h4>Awarness</h4>
+            
+        </div>
+              
+<br>
+  
+  <h1>Project Description:</h1>
+  <p> For this project, we used the San Francisco Police Department (SFPD) Incident Report, 
+      containing a detailed record of police incidents for 2016. The main goal was to produce
+       a tool that can help increase safety related awareness of the user, using different views
+        into the data set: a number of visualizations that display neighborhood-specific incident
+         data; a heatmap-style calendar which depicts total number of incidents for a given day; 
+         and a search feature that reports the total number of incidents which occurred within a 
+         certain radius from a given coordinate. </p>
+
+    <h1>Data Sets Used:</h1>
+    <p> Police Department Incidents (2.16M rows total): https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry
+        This data set was first reduced to incidents that occurred during calendar 2016. These data were further culled by focusing
+         on the top 10 incidents (by count). This was done to reduce the total number of records to process and yielded approximately
+         75 thousand records.
+         </p>
+    <p>SF Neighborhood data from the City of San Francisco, through the SF OpenData Socrata API
+         service: https://data.sfgov.org/  Neighborhood information for each incident was obtained using
+          “mapping” code obtained from "https://github.com/dylburger/sf-lat-long-mapper". This code provides 
+          a programmatic interface which returns the neighborhood name for a given latitude, longitude
+           coordinate—available for each incident in the SFPD report.
+        </p>
+    <h1>Data Engineering</h1>
+    <p>
+        The SFPD Incident Report data were very clean with no missing and/or duplicate info.
+        The main challenge associated with this data set is its size. Since the primary objective 
+        is to increase awareness, data recency is more important than historical perspective.
+        By focusing on the top 10 most frequent incidents, we further reduced the data set size.
+        These tactics were key to shortening the time-consuming task of obtaining neighborhood
+         information for each record in the data set.  With this reduced size, this processing still
+         took nearly a full day of processing to complete.
+        Another challenge relates to the addition of geospatial information to each incident, 
+        specifically polygon data for a given neighborhood.  This addition facilitated neighborhood-specific
+        mapping using Carto; but doing so, increased the file size of our data set by over 20 fold to nearly
+         600MB, complicating data movement activities.  </p>
+    
+
+</div>
+</body>
+</html>
+
+
+      

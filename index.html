@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Awareness</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css"> 
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>  
+   
+</head>
+
+<body>
+  <!--Navbar-->
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <!-- <button class="navbar-header"><a href="index.html">Home</a></button> -->
+      
+        
+      <div class="btn-group navbar-right">
+        <!--
+          <button type="button" class="btn btn-default dropdown-toggle" 
+            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plot
+          </button>
+          <ul class="dropdown-menu">
+            <li><a href="temperature.html">Type of incident</a></li>
+            <li><a href="humidity.html">Nighborhood </a></li>
+            <li><a href="wind_speed.html">Day of the year</a></li>
+            
+          </ul>
+          -->
+          <button type="button" class="btn btn-default"><a href="search.html">Search</a></button>
+          <button type="button" class="btn btn-default"><a href="about.html">about</a></button>
+        
+        </div>  
+    </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-md-offset-0">
+          <h4>Awarness</h4>
+    
+          <div class="moveMe">
+            <div class="top-left">Visiting San-Francisco</div>
+            
+          </div>
+        </div>
+      </div>
+      <div class="row">
+          <div class="article">
+            <p>Everyone who lives, works and visits San Francisco has the right to be safe. 
+                The statistics are grim: SF ranks among the least safe cities in the US;
+                it is safer than only 7% of the cities in the US.  At the same time, SF 
+                also is considered to be among the “safest” major cities in the world based
+                on a study which ranked the City at number 12 overall.  Clearly there is more
+                to safety than what people traditionally think of when considering the topic of
+                safety.  Nevertheless, personal safety is an important attribute of any 
+                safety-focused evaluation.  This application provides a detailed view of personal 
+                safety in SF by utilizing the data in SFPD Incidents Report.  Our goal is to raise
+                awareness by providing this information and hope you find it useful when planning 
+                your visits to this iconic city.
+            </p>
+          <!--  <div class="leftpane"> -->
+                <h1>D3 collapsible tree </h1>  
+                <p>An interactive version of a collapsible tree can give you overall vitualization of 
+                  top 10 incidents of 37 neighborhoods at san Francisco. Click on the nodes to expand
+                   or collapse.</p>
+              <br>
+           <!-- </div>  -->
+            
+          </div>
+              
+        <div class="col-xs-12  col-md-9 col-md-offset-0">
+            <div class="iframeContainer">
+                <!-- Add a responsive iframe here that includes the tree_map.html file -->
+                <iframe width="1000" height="900" frameborder="0" 
+                src=tree_map.html allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+    
+            </div>
+        </div>
+        <div class="article"> 
+          <h1>Carto location: Don't let your data limit your analysis</h1>
+          <p>Location data is powering a new wave of innovation. This vitualization can give
+             you opportunaty to check each of 37 neighborhoods at San Francisco for top highest
+             incidents. As a visitors or residents you can make wise decition where to visit or where to live!  </p>
+           
+        </div>  
+        <br><br>
+        <div class="col-xs-12  col-md-9 col-md-offset-0">
+            <div class="iframeContainer">
+            <!-- Add a responsive iframe here that includes the carto file -->
+            <iframe width="1000" height="900" frameborder="0" 
+            src=https://alfaiabdul.github.io/SF_Crime_incidents_t5/ allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>	
+  
+          </div>
+        </div>  
+        <div class="article">
+          <h1>D3 Heatmap calendar</h1>
+          <p>An interactive heatmap calendar can give you opportunaty to check the specific date and 
+                 find out the total top 10 incidents on that date at san Francisco. Click on the nodes to see the number.</p>
+        </div>
+        <div class="iframeContainer">
+            <!-- Add a responsive iframe here that includes the Heatmap.html file -->
+            <iframe width="1000" height="150" frameborder="0" 
+            src=heatmap-index.html allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </div>
+            
+        
+      </div>
+      
+    </div>
+  
+      <!-- Footer-->
+    <div id="footer">
+      <p><!-- Insert your Copyright Info here --></p>
+    </div>
+  
+  </body>
+  </html>
+  
+  
+      

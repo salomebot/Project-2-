@@ -1,0 +1,161 @@
+/*
+ First External CSS Stylesheet
+ */
+
+/* Styling for HTML elements */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+}
+
+header {
+  background: #333;
+}
+
+p {
+  padding: 1%;
+  margin: 2%;
+  font-family: sans-serif;    /*Georgia, "Times New Roman", Times, serif; */
+  font-size: 16px;
+  line-height: 150%;
+  color: #333;
+  text-align: left;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 2%;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-family: sans-serif;
+  color: #333;
+  text-align: left;
+  border-bottom:1px solid #FCFCFC; 
+  width:90%;
+}
+
+h4 {
+  background: linear-gradient(to right, orange 20%, #FFF 20%) bottom .5em left .8em no-repeat, linear-gradient(#323A45, #323A45);
+  background-size: 100% 1px, 100% 100%;
+  padding: .5em;
+  color: #FDFFFE;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+
+button {
+  background-color: powderblue;
+}
+
+/* Selecting elements by class */
+.container {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+.navbar {
+  padding: 0px;
+  background: #FCFCFC;
+}
+
+/* Getting rid of the default link styles here */
+.navbar li a {
+  color: #080808;
+  text-decoration: none;
+}
+
+
+.leftpane{
+  height: 150px;
+  padding: 7px;
+  width: 87%;
+  margin-right: 20px;
+  background-color: #efeee7;
+  float: left;
+  border-collapse: collapse; 
+  position: relative;
+  
+}
+
+
+#main-header-title h1 {
+  color: #fcdd03;
+  font-weight: bold;
+  font-family: 'Guardian Egyptian Web';
+  line-height: 1;
+  font-size: 64px;
+}
+
+
+
+.moveMe{
+  width: 100%;
+  height: 300px;
+  text-align: center;
+
+  color: white;
+  font-weight: bold;
+  font-family: 'Guardian Egyptian Web';
+  line-height: 1;
+  font-size: 64px;
+  background-image: url("https://cdn2.wanderlust.co.uk/media/3137/lists-5-reasons-to-visit-san-francisco.jpg?anchor=center&mode=crop&width=1120&height=420&rnd=131481687410000000&slimmage=true&quality=90");
+  position: relative;
+  top: 0;
+  -webkit-transition: top 2s;
+  -moz-transition: top 2s;
+  -o-transition: top 2s;
+  
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+.moveMe:hover{
+  top: 100px;
+  -webkit-transition: top 0.3s;
+  -moz-transition: top 0.3s;
+  -o-transition: top 0.3s;
+}
+
+}
+/* Adding media queries to show the drop-down, and hide the navbar when the screen
+ is smaller than 480 pixels */
+
+@media (max-width: 1023px) {
+  .navbar li {
+    padding: 10px;
+  }
+
+  .post {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  .navbar ul {
+    visibility: hidden;
+  }
+
+  #nav-select {
+    visibility: visible;
+  }
+
+  
+  
+  .leftpane{
+    width: 98%;
+    height: 500px;
+  }
+  
+  
+  
+}
